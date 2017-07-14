@@ -15,7 +15,7 @@ That's it...
 
 <div style="width:600px">
 <div style="float:left; width:300px"><img src="https://github.com/vektorious/rack_designer/blob/master/images/rack_designer_model.jpg" style="width: 300px;" hspace="20"/></div>
-<div style="float:left; width:300px"><img  src="https://github.com/vektorious/rack_designer/blob/master/images/rack_gif.gif" style="widht: 300px;" hspace="20"/></div>
+<div style="float:left; width:300px"><img  src="https://github.com/vektorious/rack_designer/blob/master/images/rack_gif.gif" style="width: 300px;" hspace="20"/></div>
 
 
 <div style="clear:both"></div>
