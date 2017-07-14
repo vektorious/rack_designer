@@ -12,3 +12,6 @@ To use this script you need the open source software OpenSCAD (http://www.opensc
 Press on "render", check the model in the 3D preview screen and export it to .stl!
 
 That's it...
+
+<img align="right" src="https://github.com/vektorious/rack_designer/blob/master/images/rack_designer_model.jpg" style="width: 400px;" hspace="20"/>
+<img align="right" src="https://github.com/vektorious/rack_designer/blob/master/images/rack_gif.gif" style="width: 400px;" hspace="20"/>
