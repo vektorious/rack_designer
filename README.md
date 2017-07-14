@@ -13,4 +13,6 @@ Press on "render", check the model in the 3D preview screen and export it to .st
 
 That's it...
 
-<div style="text-align:center"><img src="https://github.com/vektorious/rack_designer/blob/master/images/rack_designer_model.jpg"/></div>
+<p align="center">
+<img src="https://github.com/vektorious/rack_designer/blob/master/images/rack_designer_model.jpg"/>
+</p>
